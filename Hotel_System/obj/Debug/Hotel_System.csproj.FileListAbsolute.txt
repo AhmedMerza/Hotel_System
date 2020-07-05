@@ -1,0 +1,16 @@
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\bin\Debug\Hotel_System.exe
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\bin\Debug\Hotel_System.pdb
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.csprojAssemblyReference.cache
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Form1.resources
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Properties.Resources.resources
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.csproj.GenerateResource.cache
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.exe
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.pdb
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Form2.resources
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Menu.resources
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\bin\Debug\Database.mdf
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\bin\Debug\Database_log.ldf
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\bin\Debug\Hotel_System.exe.config
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.LastForm.resources
+C:\Users\GAMER\source\repos\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Rigester.resources
